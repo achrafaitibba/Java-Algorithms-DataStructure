@@ -1,3 +1,12 @@
+/src/main/java/Algorithms/naturalSum.java
+.gitignore
+
+
+
+
+
+
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
